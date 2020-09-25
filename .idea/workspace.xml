@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Facultad/Gimnasios-App" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ActivaIntegration" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/activaIntegration" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/desktop-admin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/dh-rps-proxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/integration-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/integrations-catalog-services" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/integrations-self-management-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ops-lambda" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ops-lambda/ops-activa" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ops-lambda/ops-lambda-rps" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ops-lambda/ops-salesforce" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/ops-triggers" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/order-manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/reception-system-sdk/java" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/dev/reception-system-sdk/java/reception-sdk" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Email" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/PubNub Example/PubNubTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/PubNubTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/artifactTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/artifactoryGrdle" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/e-reservation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/gimnaisio" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/gym2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/messageApi" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+</project>
